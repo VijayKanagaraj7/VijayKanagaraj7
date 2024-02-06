@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://VijayKanagaraj7.io)
 <h1 align="center">Hi 👋, I'm VIJAY</h1>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vijay&label=Profile%20views&color=0e75b6&style=flat" alt="vijay" /> </p>
+
 
 - 🌱 I’m currently learning **AI & DS**
 
