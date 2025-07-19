@@ -1,23 +1,206 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://VijayKanagaraj7.io)
-<h1 align="center">Hi 👋, I'm VIJAY</h1>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
+import { useState, useEffect } from 'react';
+import { Badge } from '@/components/ui/badge';
+import { Card } from '@/components/ui/card';
+import heroCoding from '@/assets/hero-coding.jpg';
 
+const Index = () => {
+  const [visibleSection, setVisibleSection] = useState(0);
 
-- 🌱 I’m currently learning **AI & DS**
+  useEffect(() => {
+    const timer = setInterval(() => {
+      setVisibleSection(prev => (prev + 1) % 5);
+    }, 3000);
+    return () => clearInterval(timer);
+  }, []);
 
-- 📫 How to reach me **sergorpno@gmail.com**
+  const techStacks = [
+    {
+      category: "AI & Machine Learning",
+      technologies: ["PyTorch", "TensorFlow", "Transformers", "LangChain", "Hugging Face", "OpenAI", "LlamaIndex"],
+      description: "Orchestrating symphonies of neural architecture"
+    },
+    {
+      category: "Programming Languages", 
+      technologies: ["Python", "JavaScript", "TypeScript", "Java", "C++", "SQL"],
+      description: "Polyglottal virtuosity in computational linguistics"
+    },
+    {
+      category: "Cloud & MLOps",
+      technologies: ["AWS SageMaker", "Docker", "Kubernetes", "MLflow", "Kubeflow", "Apache Airflow"],
+      description: "Architecting scalable intelligence infrastructure"
+    },
+    {
+      category: "Data Science",
+      technologies: ["Pandas", "NumPy", "Scikit-learn", "XGBoost", "Tableau", "Power BI"],
+      description: "Transmuting raw data into crystalline insights"
+    }
+  ];
 
-- ⚡ Fact about me **Bibliophile,Solitude,blogger**
+  const specializations = [
+    { icon: "🧬", title: "Artificial Intelligence", description: "Architecting cognition from silicon and code" },
+    { icon: "🔮", title: "Generative AI", description: "Conjuring creativity through autoregressive alchemy" },
+    { icon: "🧠", title: "Machine Learning", description: "Sculpting intelligence from probabilistic paradigms" },
+    { icon: "📊", title: "Data Science", description: "Extracting omniscience from chaotic information" },
+    { icon: "🔬", title: "Research & Innovation", description: "Pioneering uncharted territories of computation" }
+  ];
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/vijay-k-7a864a289" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vijay-k-7a864a289" height="30" width="40" /></a>
-<a href="https://instagram.com/vijay_footballer_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vijay_footballer_" height="30" width="40" /></a>
-</p>
+  return (
+    <div className="min-h-screen bg-gradient-to-br from-background via-background to-secondary/20 relative overflow-hidden">
+      {/* Animated background particles */}
+      <div className="absolute inset-0 overflow-hidden">
+        {[...Array(50)].map((_, i) => (
+          <div
+            key={i}
+            className="absolute w-1 h-1 bg-primary/30 rounded-full animate-cosmic-drift"
+            style={{
+              top: `${Math.random() * 100}%`,
+              animationDelay: `${Math.random() * 20}s`,
+              animationDuration: `${15 + Math.random() * 10}s`
+            }}
+          />
+        ))}
+      </div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.wxwidgets.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/WxWidgets.svg" alt="wx_widgets" width="40" height="40"/> </a> </p>
+      {/* Neural network grid background */}
+      <div className="absolute inset-0 opacity-10">
+        <svg className="w-full h-full" viewBox="0 0 100 100">
+          <defs>
+            <pattern id="grid" width="10" height="10" patternUnits="userSpaceOnUse">
+              <path d="M 10 0 L 0 0 0 10" fill="none" stroke="currentColor" strokeWidth="0.5"/>
+            </pattern>
+          </defs>
+          <rect width="100%" height="100%" fill="url(#grid)" />
+        </svg>
+      </div>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vijay&show_icons=true&locale=en&layout=compact" alt="vijay" /></p>
+      <div className="container mx-auto px-6 py-8 relative z-10">
+        {/* Hero Section */}
+        <section className="text-center mb-16 animate-fade-in-up">
+          <div className="relative inline-block mb-8">
+            <img 
+              src={heroCoding} 
+              alt="Futuristic coding environment"
+              className="w-96 h-64 object-cover rounded-2xl shadow-glow-primary animate-glow-pulse"
+            />
+            <div className="absolute inset-0 bg-gradient-neural opacity-20 rounded-2xl"></div>
+          </div>
+          
+          <h1 className="text-6xl font-bold bg-gradient-cosmic bg-clip-text text-transparent mb-4 animate-neural-pulse">
+            Vijay Kanagaraj
+          </h1>
+          
+          <div className="text-xl text-muted-foreground mb-6 max-w-3xl mx-auto leading-relaxed">
+            <span className="text-accent font-semibold">Artificer</span> of artificial intelligence and{' '}
+            <span className="text-primary font-semibold">connoisseur</span> of computational intricacies.{' '}
+            Navigating the <span className="text-accent font-semibold">arcane</span> realms where mathematics meets philosophy,{' '}
+            and logic transcends automation.
+          </div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vijay&" alt="vijay" /></p>
+          <div className="flex flex-wrap justify-center gap-3 mb-8">
+            <Badge variant="secondary" className="bg-primary/20 text-primary border-primary/30 hover:bg-primary/30 transition-all duration-300">
+              🧬 AI Architect
+            </Badge>
+            <Badge variant="secondary" className="bg-accent/20 text-accent border-accent/30 hover:bg-accent/30 transition-all duration-300">
+              🔮 GenAI Specialist
+            </Badge>
+            <Badge variant="secondary" className="bg-primary/20 text-primary border-primary/30 hover:bg-primary/30 transition-all duration-300">
+              📊 Data Alchemist
+            </Badge>
+          </div>
+        </section>
+
+        {/* Specializations Grid */}
+        <section className="mb-16">
+          <h2 className="text-4xl font-bold text-center mb-12 bg-gradient-neural bg-clip-text text-transparent">
+            Domains of Expertise
+          </h2>
+          
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+            {specializations.map((spec, index) => (
+              <Card key={index} className="p-6 bg-card/50 border-border/50 hover:border-primary/50 transition-all duration-500 hover:shadow-glow-primary animate-float group">
+                <div className="text-4xl mb-4 group-hover:animate-glow-pulse">{spec.icon}</div>
+                <h3 className="text-xl font-semibold mb-3 text-foreground">{spec.title}</h3>
+                <p className="text-muted-foreground leading-relaxed">{spec.description}</p>
+              </Card>
+            ))}
+          </div>
+        </section>
+
+        {/* Tech Stack Showcase */}
+        <section className="mb-16">
+          <h2 className="text-4xl font-bold text-center mb-12 bg-gradient-cosmic bg-clip-text text-transparent">
+            Technological Arsenal
+          </h2>
+          
+          <div className="grid grid-cols-1 lg:grid-cols-2 gap-8">
+            {techStacks.map((stack, index) => (
+              <Card 
+                key={index} 
+                className={`p-8 bg-card/30 border-border/30 transition-all duration-700 hover:border-accent/50 hover:shadow-glow-accent ${
+                  visibleSection === index ? 'animate-neural-pulse' : ''
+                }`}
+              >
+                <h3 className="text-2xl font-bold mb-4 text-accent">{stack.category}</h3>
+                <p className="text-muted-foreground mb-6 italic">{stack.description}</p>
+                
+                <div className="flex flex-wrap gap-2">
+                  {stack.technologies.map((tech, techIndex) => (
+                    <Badge 
+                      key={techIndex}
+                      variant="outline" 
+                      className="bg-secondary/50 border-primary/30 text-foreground hover:bg-primary/20 hover:border-primary/50 transition-all duration-300"
+                    >
+                      {tech}
+                    </Badge>
+                  ))}
+                </div>
+              </Card>
+            ))}
+          </div>
+        </section>
+
+        {/* Philosophy Section */}
+        <section className="mb-16">
+          <Card className="p-12 bg-gradient-matrix border-accent/20 relative overflow-hidden">
+            <div className="absolute inset-0 bg-gradient-to-r from-primary/5 to-accent/5"></div>
+            <div className="relative z-10">
+              <h2 className="text-3xl font-bold mb-6 text-center text-accent">Computational Philosophy</h2>
+              <blockquote className="text-xl text-center text-muted-foreground italic leading-relaxed max-w-4xl mx-auto">
+                "In the <span className="text-primary font-semibold">labyrinthine</span> corridors of artificial cognition, 
+                I endeavor to transmute the <span className="text-accent font-semibold">ineffable</span> complexity 
+                of intelligence into <span className="text-primary font-semibold">tangible</span> algorithms. 
+                Each model is a <span className="text-accent font-semibold">tessellation</span> of mathematical 
+                precision and creative <span className="text-primary font-semibold">serendipity</span>."
+              </blockquote>
+            </div>
+          </Card>
+        </section>
+
+        {/* Contact/Connect Section */}
+        <section className="text-center">
+          <h2 className="text-3xl font-bold mb-8 bg-gradient-neural bg-clip-text text-transparent">
+            Collaborative Ventures
+          </h2>
+          <p className="text-lg text-muted-foreground mb-8 max-w-2xl mx-auto">
+            Seeking fellow <span className="text-accent font-semibold">cognoscenti</span> to explore the 
+            <span className="text-primary font-semibold">liminal</span> spaces between artificial and human intelligence.
+          </p>
+          
+          <div className="flex justify-center space-x-6">
+            <Badge variant="outline" className="p-3 bg-primary/10 border-primary/30 hover:bg-primary/20 transition-all duration-300 cursor-pointer">
+              🔗 GitHub
+            </Badge>
+            <Badge variant="outline" className="p-3 bg-accent/10 border-accent/30 hover:bg-accent/20 transition-all duration-300 cursor-pointer">
+              💼 LinkedIn
+            </Badge>
+            <Badge variant="outline" className="p-3 bg-primary/10 border-primary/30 hover:bg-primary/20 transition-all duration-300 cursor-pointer">
+              📧 Email
+            </Badge>
+          </div>
+        </section>
+      </div>
+    </div>
+  );
+};
+
+export default Index;
