@@ -1,16 +1,18 @@
-# 🚀 Vijay Kanagaraj - AI ML Architect & Data Scientist
+# Vijay Kanagaraj - AI ML Engineer/Data Scientist/No Code Developer
 
 <div align="center">
 
+<!-- Futuristic Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffff,100:8b5cf6&height=200&section=header&text=AI%20NEURAL%20ARCHITECT&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlign=70&fontAlignY=40" />
+
 <!-- Animated Typing Header -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=35&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=%F0%9F%9A%80+VIJAY+KANAGARAJ;%F0%9F%A4%96+AI+ML+ARCHITECT;%F0%9F%A7%A0+DATA+SCIENTIST;%F0%9F%94%AE+COGNITIVE+ENGINEER;%E2%9A%A1+NEURAL+ARCHITECT" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=35&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=VIJAY+KANAGARAJ;AI+ML+ENGINEER;DATA+SCIENTIST;NO+CODE+DEVELOPER;NEURAL+ARCHITECT" alt="Typing SVG" />
 
 <!-- Animated Tech Symbols -->
 <p align="center">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="50">
   <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="50">
-  <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="50">
   <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="50">
 </p>
 
@@ -34,7 +36,7 @@
 
 ---
 
-## 💫 About Me
+## About Me
 
 I'm **Vijay Kanagaraj** — an architect of artificial cognition and a craftsman of computational elegance. I navigate the esoteric frontiers of AI, GenAI, and Data Science, distilling entropy into insight and code into cognitive frameworks.
 
@@ -42,19 +44,62 @@ My work revolves around orchestrating neural architectures, fine-tuning generati
 
 ---
 
-## 🚀 DOMAINS_OF_EXPERTISE
+## Domains of Expertise
 
-<div align="center">
-  
-| 🧬 Specialization | Description |
-|:------------------:|:------------|
-| 🧬 **Artificial Intelligence** | Architecting cognition from silicon and code |
-| 🔮 **Generative AI** | Conjuring creativity through autoregressive alchemy |
-| 🧠 **Machine Learning** | Sculpting intelligence from probabilistic paradigms |
-| 📊 **Data Science** | Extracting omniscience from chaotic information |
-| 🔬 **Research & Innovation** | Pioneering uncharted territories of computation |
+<table align="center">
+<tr>
+<td align="center" width="25%">
 
-</div>
+### Artificial Intelligence
+*Neural networks, intelligent systems, and cognitive architectures*
+
+</td>
+<td align="center" width="25%">
+
+### Data Science
+*Statistical modeling, analytics, and data-driven insights*
+
+</td>
+<td align="center" width="25%">
+
+### Machine Learning
+*Deep learning, CNNs, RNNs, transformers, and pattern recognition*
+
+</td>
+<td align="center" width="25%">
+
+### Generative AI
+*LLMs, RAG systems, agentic AI, and content generation*
+
+</td>
+</tr>
+<tr>
+<td align="center" width="25%">
+
+### No Code Development
+*Replit, Shopify, Cursor, Tray, Bolt, Loveable platforms*
+
+</td>
+<td align="center" width="25%">
+
+### UI/UX Design
+*Figma, Sketch, Adobe XD, and user experience optimization*
+
+</td>
+<td align="center" width="25%">
+
+### Natural Language Processing
+*Seq2Seq models, BERT, GPT, transformers, and text processing*
+
+</td>
+<td align="center" width="25%">
+
+### MLOps
+*Production pipelines, Docker, Kubernetes, MLFlow, and deployment*
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -70,12 +115,35 @@ My work revolves around orchestrating neural architectures, fine-tuning generati
 <img src="https://img.shields.io/badge/LangChain-00D4AA?style=for-the-badge&logo=chainlink&logoColor=white"/>
 <img src="https://img.shields.io/badge/LlamaIndex-8B5CF6?style=for-the-badge&logo=meta&logoColor=white"/>
 
-### 💻 Programming Languages
+### Programming Languages
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
+### No Code Tools
+<img src="https://img.shields.io/badge/Replit-667881?style=for-the-badge&logo=replit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tray-FF6B6B?style=for-the-badge&logo=tray&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bolt-4285F4?style=for-the-badge&logo=bolt&logoColor=white"/>
+<img src="https://img.shields.io/badge/Loveable-E91E63?style=for-the-badge&logo=love&logoColor=white"/>
+
+### UI/UX Design
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Sketch-F7B500?style=for-the-badge&logo=sketch&logoColor=black"/>
+<img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white"/>
+
+### Skill Visualization
+```
+Python     ████████████████████░   95%
+SQL        ████████████████░░░░░   80%
+Java       ██████████████░░░░░░░   70%
+AI/ML      ████████████████████░   95%
+No Code    ████████████████░░░░░   80%
+UI/UX      ██████████████░░░░░░░   70%
+Data Sci   ████████████████████░   95%
+GenAI      ████████████████████░   95%
+```
 
 ### 📈 Data Science Arsenal
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
@@ -96,30 +164,32 @@ My work revolves around orchestrating neural architectures, fine-tuning generati
 
 ---
 
-## 🎯 NOTABLE_PROJECTS.exe
+## Notable Projects
 
 <div align="center">
 
-### 🖼️ AI Text-to-Image Generator
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=VijayKanagaraj7&repo=AI-Text_to_Image_Generator&theme=react&bg_color=0A0A0A&title_color=00FFFF&hide_border=true&icon_color=00FF41&show_icons=true&border_color=00FFFF)](https://github.com/VijayKanagaraj7/AI-Text_to_Image_Generator)
+### Skin Disease Classification System
+**Description:** Collaborated with colleagues to build a full-fledged skin classification system web app. Achieved an accuracy score of 82% in the testing process of classifying images, where the model is fine-tuned on 10 major skin disease classes of 10,000 dermatological Images.
 
-**Advanced AI system that transforms textual descriptions into high-quality visual representations using state-of-the-art generative models.**
+**Key Features:** Integrated chatbot support and medical report analysis.
 
-### 🔍 RAG Evaluator
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=VijayKanagaraj7&repo=RAG-Evaluator&theme=react&bg_color=0A0A0A&title_color=00FFFF&hide_border=true&icon_color=00FF41&show_icons=true&border_color=00FFFF)](https://github.com/VijayKanagaraj7/RAG-Evaluator)
+**Tech Stack:** Pretrained CNN models - VGG16 and ResNet, transfer learning techniques, Gemini API, LangChain framework.
 
-**Comprehensive evaluation framework for Retrieval-Augmented Generation systems, ensuring optimal performance and accuracy in AI responses.**
+### DRAX - Multi-Agent AI Assistant
+**Description:** Engineered DRAX, an intelligent personal AI assistant, utilizes a multi-agent architecture where a central Manager agent (DRAX) delegates tasks (received via text or voice) to specialized Member agents for efficient execution.
 
-### 👋 Sign Language Detection
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=VijayKanagaraj7&repo=Sign-Language-Detection&theme=react&bg_color=0A0A0A&title_color=00FFFF&hide_border=true&icon_color=00FF41&show_icons=true&border_color=00FFFF)](https://github.com/VijayKanagaraj7/Sign-Language-Detection)
+**Key Features:** 
+- Implemented 13 specialized agents for tasks including RAG-based Document Analysis (PDFs), Web Search, Stock Market queries, Mail Management, Weather reporting, Web Scraping, Calendar management, and more.
+- Integrated multi-modal interaction: Voice input via Groq API (Whisper) transcription and spoken responses using ElevenLabs Text-to-Speech (TTS).
+- Leveraged LanceDB for efficient vector storage and retrieval in the RAG agent, using Google Gemini embeddings.
 
-**Real-time computer vision system that recognizes and translates sign language gestures, bridging communication barriers through AI.**
+**Tech Stack:** 'agno' framework, Google Gemini (LLM & Embeddings), LanceDB, Groq API, ElevenLabs API, SQLite, Python, APIs (YFinance, OpenWeatherMap, Google Workspace, Firecrawl, Twilio).
 
 </div>
 
 ---
 
-## 📊 NEURAL_METRICS.status()
+## Consistency
 
 <div align="center">
   
@@ -140,7 +210,7 @@ My work revolves around orchestrating neural architectures, fine-tuning generati
 
 ---
 
-## 🌐 ACTIVITY_MATRIX
+## Activity Matrix
 
 <div align="center">
   
@@ -151,7 +221,7 @@ My work revolves around orchestrating neural architectures, fine-tuning generati
 
 ---
 
-## 🏆 ACHIEVEMENTS_UNLOCKED
+## Achievements Unlocked
 
 <div align="center">
   
@@ -162,7 +232,7 @@ My work revolves around orchestrating neural architectures, fine-tuning generati
 
 ---
 
-## 🎨 SKILL_VISUALIZATION
+## Skill Visualization
 
 <div align="center">
 
@@ -186,11 +256,11 @@ My work revolves around orchestrating neural architectures, fine-tuning generati
 
 ---
 
-## 💬 CONNECT.protocol()
+## Connect Protocol
 
 <div align="center">
 
-### 🌟 Let's Build the Future of AI Together!
+### Let's Build the Future of AI Together!
 
 <div style="display: flex; justify-content: center; gap: 20px; margin: 20px 0;">
 
@@ -201,7 +271,7 @@ My work revolves around orchestrating neural architectures, fine-tuning generati
 
 </div>
 
-### 🚀 Current Status: `BUILDING THE FUTURE`
+### Current Status: `BUILDING THE FUTURE`
 
 > *"In the symphony of silicon and code, I orchestrate intelligence that transcends the boundaries of what's possible."*
 
@@ -209,9 +279,9 @@ My work revolves around orchestrating neural architectures, fine-tuning generati
 
 <div style="background: linear-gradient(90deg, #00ffff, #00ff41, #8b5cf6); height: 2px; width: 100%; margin: 20px 0;"></div>
 
-**⚡ Powered by Neural Networks | 🧠 Crafted with Computational Love | 🚀 Deployed in the Matrix**
+**Powered by Neural Networks | Crafted with Computational Love | Deployed in the Matrix**
 
-*© 2024 Vijay Kanagaraj • Architecting the Future of AI • Made with ⚡ and 🤖*
+*© 2024 Vijay Kanagaraj • Architecting the Future of AI • Made with Code and Intelligence*
 
 </div>
 
@@ -233,6 +303,17 @@ My work revolves around orchestrating neural architectures, fine-tuning generati
 ║ Hint: The future of AI lies in the convergence of consciousness and code.    ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 -->
+
+---
+
+## Snake Game
+
+<div align="center">
+  
+  <!-- GitHub Snake Game Animation -->
+  <img src="https://raw.githubusercontent.com/VijayKanagaraj7/VijayKanagaraj7/output/github-contribution-grid-snake.svg" alt="Snake Game"/>
+  
+</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&animation=twinkling"/>
