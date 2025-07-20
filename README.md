@@ -2,22 +2,8 @@
 
 <div align="center">
 
-<!-- Animated Header with Glitch Effect -->
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=35&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=%F0%9F%9A%80+VIJAY+KANAGARAJ;%F0%9F%A4%96+AI+ML+ARCHITECT;%F0%9F%A7%A0+DATA+SCIENTIST;%F0%9F%94%AE+COGNITIVE+ENGINEER;%E2%9A%A1+NEURAL+ARCHITECT" alt="Typing SVG" />
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-</h1>
-
-<!-- Futuristic Profile Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffff,100:8b5cf6&height=200&section=header&text=COGNITIVE%20ARCHITECT&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlign=70&fontAlignY=40" />
-
-<!-- Matrix-style Avatar with Glowing Border -->
-<div style="position: relative; margin: 30px 0;">
-  <img src="https://avatars.githubusercontent.com/u/74038190?v=4" alt="Futuristic AI Developer" width="200" height="200" style="border-radius: 50%; border: 4px solid #00ffff; box-shadow: 0 0 50px #00ffff; animation: pulse 2s infinite;"/>
-  <br/>
-  <img src="https://github.com/VijayKanagaraj7.png" alt="Vijay Kanagaraj" width="150" height="150" style="border-radius: 50%; border: 3px solid #00ff41; box-shadow: 0 0 30px #00ff41;"/>
-</div>
+<!-- Animated Typing Header -->
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=35&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=%F0%9F%9A%80+VIJAY+KANAGARAJ;%F0%9F%A4%96+AI+ML+ARCHITECT;%F0%9F%A7%A0+DATA+SCIENTIST;%F0%9F%94%AE+COGNITIVE+ENGINEER;%E2%9A%A1+NEURAL+ARCHITECT" alt="Typing SVG" />
 
 <!-- Animated Tech Symbols -->
 <p align="center">
@@ -28,10 +14,7 @@
   <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="50">
 </p>
 
-<!-- Visitor Counter with Enhanced Styling -->
-<img src="https://visitcount.itsvg.in/api?id=VijayKanagaraj7&label=NEURAL%20VISITORS&color=00ffff&icon=5&pretty=true" alt="Visit Counter"/>
-
-<!-- Enhanced Social Media Links -->
+<!-- Social Media Links -->
 <p align="center">
   <a href="https://www.linkedin.com/in/vijay-kanagaraj/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=000000"/>
@@ -47,20 +30,11 @@
   </a>
 </p>
 
-<!-- Matrix Digital Rain Animation -->
-<img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="100%"/>
-
 </div>
 
 ---
 
-## 🧬 COGNITIVE_ARCHITECT.initialize()
-
-<div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" alt="AI Neural Network Animation"/>
-</div>
-
-### 💫 About Me
+## 💫 About Me
 
 I'm **Vijay Kanagaraj** — an architect of artificial cognition and a craftsman of computational elegance. I navigate the esoteric frontiers of AI, GenAI, and Data Science, distilling entropy into insight and code into cognitive frameworks.
 
