@@ -1,23 +1,54 @@
 # 🚀 Vijay Kanagaraj - AI ML Architect & Data Scientist
 
 <div align="center">
-  
-  <!-- Futuristic Banner with Animated Typing -->
-  <img src="https://readme-typing-svg.demolab.com/?lines=🤖+AI+ML+ARCHITECT;🧠+DATA+SCIENTIST;🔮+COGNITIVE+ENGINEER;⚡+GENERATIVE+AI+SPECIALIST;🚀+NEURAL+ARCHITECT&font=JetBrains+Mono&center=true&width=600&height=100&color=00ffff&vCenter=true&pause=1000&size=28&background=0A0A0A00" alt="Typing Animation"/>
-  
-  <!-- Futuristic Coding Image -->
-  <img src="https://images.unsplash.com/photo-1518709268805-4e9042af2176?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=600&h=400" alt="Futuristic AI Developer" width="600" height="300" style="border-radius: 15px; border: 3px solid #00ffff; box-shadow: 0 0 30px #00ffff80;"/>
-  
-  <!-- Visitor Counter with Cyberpunk Style -->
-  <img src="https://komarev.com/ghpvc/?username=VijayKanagaraj7&label=NEURAL+NETWORK+VISITORS&color=00ffff&style=for-the-badge&abbreviated=true" alt="Profile Views"/>
-  
-  <!-- Social Media Links with Cyberpunk Styling -->
-  <div style="margin: 20px 0;">
-    <a href="https://www.linkedin.com/in/vijay-kanagaraj/"><img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=00ffff&border=2px+solid+00ffff" alt="LinkedIn"/></a>
-    <a href="https://medium.com/@vijaykanagaraj1986"><img src="https://img.shields.io/badge/Medium-0A0A0A?style=for-the-badge&logo=medium&logoColor=00ff41&border=2px+solid+00ff41" alt="Medium"/></a>
-    <a href="https://github.com/VijayKanagaraj7"><img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=8b5cf6&border=2px+solid+8b5cf6" alt="GitHub"/></a>
-    <a href="mailto:vijaykanagaraj1986@gmail.com"><img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=ff6b6b&border=2px+solid+ff6b6b" alt="Email"/></a>
-  </div>
+
+<!-- Animated Header with Glitch Effect -->
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=35&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=%F0%9F%9A%80+VIJAY+KANAGARAJ;%F0%9F%A4%96+AI+ML+ARCHITECT;%F0%9F%A7%A0+DATA+SCIENTIST;%F0%9F%94%AE+COGNITIVE+ENGINEER;%E2%9A%A1+NEURAL+ARCHITECT" alt="Typing SVG" />
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+</h1>
+
+<!-- Futuristic Profile Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffff,100:8b5cf6&height=200&section=header&text=COGNITIVE%20ARCHITECT&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlign=70&fontAlignY=40" />
+
+<!-- Matrix-style Avatar with Glowing Border -->
+<div style="position: relative; margin: 30px 0;">
+  <img src="https://avatars.githubusercontent.com/u/74038190?v=4" alt="Futuristic AI Developer" width="200" height="200" style="border-radius: 50%; border: 4px solid #00ffff; box-shadow: 0 0 50px #00ffff; animation: pulse 2s infinite;"/>
+  <br/>
+  <img src="https://github.com/VijayKanagaraj7.png" alt="Vijay Kanagaraj" width="150" height="150" style="border-radius: 50%; border: 3px solid #00ff41; box-shadow: 0 0 30px #00ff41;"/>
+</div>
+
+<!-- Animated Tech Symbols -->
+<p align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="50">
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="50">
+  <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="50">
+  <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="50">
+</p>
+
+<!-- Visitor Counter with Enhanced Styling -->
+<img src="https://visitcount.itsvg.in/api?id=VijayKanagaraj7&label=NEURAL%20VISITORS&color=00ffff&icon=5&pretty=true" alt="Visit Counter"/>
+
+<!-- Enhanced Social Media Links -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/vijay-kanagaraj/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=000000"/>
+  </a>
+  <a href="https://medium.com/@vijaykanagaraj1986">
+    <img src="https://img.shields.io/badge/Medium-Follow-12100E?style=for-the-badge&logo=medium&logoColor=white&labelColor=12100E&color=000000"/>
+  </a>
+  <a href="https://github.com/VijayKanagaraj7">
+    <img src="https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=100000&color=000000"/>
+  </a>
+  <a href="mailto:vijaykanagaraj1986@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836&color=000000"/>
+  </a>
+</p>
+
+<!-- Matrix Digital Rain Animation -->
+<img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="100%"/>
 
 </div>
 
