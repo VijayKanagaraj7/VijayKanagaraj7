@@ -3,10 +3,10 @@
 <div align="center">
 
 <!-- Futuristic Banner -->
-<img src="<img width="1000" height="563" alt="image" src="https://github.com/user-attachments/assets/17541638-ac8f-4ad8-b104-9a16d92b4776" />" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffff,100:8b5cf6&height=200&section=header&text=AI%20NEURAL%20ARCHITECT&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlign=50&fontAlignY=35" />
 
 <!-- Animated Typing Header -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=35&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=VIJAY+KANAGARAJ;AI+ML+ENGINEER;DATA+SCIENTIST;NO+CODE+DEVELOPER;NEURAL+ARCHITECT" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=40&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=VIJAY+KANAGARAJ;AI+ML+ENGINEER;DATA+SCIENTIST;NO+CODE+DEVELOPER;NEURAL+ARCHITECT" alt="Typing SVG" />
 
 <!-- Animated Tech Symbols -->
 <p align="center">
@@ -46,60 +46,92 @@ My work revolves around orchestrating neural architectures, fine-tuning generati
 
 ## Domains of Expertise
 
-<table align="center">
+<div align="center">
+
+<table>
 <tr>
-<td align="center" width="25%">
+<td width="50%" valign="top">
 
-### Artificial Intelligence
-*Neural networks, intelligent systems, and cognitive architectures*
+**🤖 ARTIFICIAL INTELLIGENCE**
+```
+• Neural Network Architectures
+• Cognitive System Design  
+• Intelligent Agent Development
+• Computer Vision Applications
+• Advanced Algorithm Implementation
+```
 
-</td>
-<td align="center" width="25%">
+**📊 DATA SCIENCE**
+```
+• Statistical Modeling & Analysis
+• Predictive Analytics
+• Data Visualization & Insights
+• Business Intelligence Solutions
+• Advanced Analytics Pipelines
+```
 
-### Data Science
-*Statistical modeling, analytics, and data-driven insights*
+**🧠 MACHINE LEARNING**
+```
+• Deep Learning (CNNs, RNNs, LSTMs)
+• Supervised & Unsupervised Learning
+• Transfer Learning Techniques
+• Model Optimization & Tuning
+• Feature Engineering & Selection
+```
 
-</td>
-<td align="center" width="25%">
-
-### Machine Learning
-*Deep learning, CNNs, RNNs, transformers, and pattern recognition*
-
-</td>
-<td align="center" width="25%">
-
-### Generative AI
-*LLMs, RAG systems, agentic AI, and content generation*
-
-</td>
-</tr>
-<tr>
-<td align="center" width="25%">
-
-### No Code Development
-*Replit, Shopify, Cursor, Tray, Bolt, Loveable platforms*
-
-</td>
-<td align="center" width="25%">
-
-### UI/UX Design
-*Figma, Sketch, Adobe XD, and user experience optimization*
-
-</td>
-<td align="center" width="25%">
-
-### Natural Language Processing
-*Seq2Seq models, BERT, GPT, transformers, and text processing*
+**🔮 GENERATIVE AI**
+```
+• Large Language Models (LLMs)
+• RAG Systems & Vector Databases
+• Agentic AI Architectures
+• Multi-Agent Systems
+• Content Generation Pipelines
+```
 
 </td>
-<td align="center" width="25%">
+<td width="50%" valign="top">
 
-### MLOps
-*Production pipelines, Docker, Kubernetes, MLFlow, and deployment*
+**💻 NO CODE DEVELOPMENT**
+```
+• Replit Platform Development
+• Shopify E-commerce Solutions
+• Cursor AI-Powered Coding
+• Tray Integration Platforms
+• Bolt & Loveable Applications
+```
+
+**🎨 UI/UX DESIGN**
+```
+• Figma Design Systems
+• Sketch Prototyping
+• Adobe XD Workflows
+• User Experience Optimization
+• Interface Design Patterns
+```
+
+**🔤 NATURAL LANGUAGE PROCESSING**
+```
+• Transformers (BERT, GPT)
+• Seq2Seq Model Architecture
+• Text Processing & Analysis
+• Sentiment Analysis Systems
+• Language Understanding Models
+```
+
+**⚙️ MLOPS & DEVOPS**
+```
+• Docker Containerization
+• Kubernetes Orchestration
+• MLFlow Model Management
+• CI/CD Pipeline Development
+• Cloud Infrastructure (AWS, SageMaker)
+```
 
 </td>
 </tr>
 </table>
+
+</div>
 
 ---
 
@@ -133,6 +165,18 @@ My work revolves around orchestrating neural architectures, fine-tuning generati
 <img src="https://img.shields.io/badge/Sketch-F7B500?style=for-the-badge&logo=sketch&logoColor=black"/>
 <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white"/>
 
+### Skill Visualization
+```
+Python     ████████████████████░   95%
+SQL        ████████████████░░░░░   80%
+Java       ██████████████░░░░░░░   70%
+AI/ML      ████████████████████░   95%
+No Code    ████████████████░░░░░   80%
+UI/UX      ██████████████░░░░░░░   70%
+Data Sci   ████████████████████░   95%
+GenAI      ████████████████████░   95%
+```
+
 ### 📈 Data Science Arsenal
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
@@ -156,22 +200,58 @@ My work revolves around orchestrating neural architectures, fine-tuning generati
 
 <div align="center">
 
-### Skin Disease Classification System
-**Description:** Collaborated with colleagues to build a full-fledged skin classification system web app. Achieved an accuracy score of 82% in the testing process of classifying images, where the model is fine-tuned on 10 major skin disease classes of 10,000 dermatological Images.
+<table>
+<tr>
+<td width="33%" valign="top">
 
-**Key Features:** Integrated chatbot support and medical report analysis.
+### 🖼️ AI Text-to-Image Generator
+[![Repo](https://img.shields.io/badge/GitHub-Repository-00FFFF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VijayKanagaraj7/AI-Text_to_Image_Generator)
 
-**Tech Stack:** Pretrained CNN models - VGG16 and ResNet, transfer learning techniques, Gemini API, LangChain framework.
+**Advanced AI system that transforms textual descriptions into high-quality visual representations using state-of-the-art generative models.**
 
-### DRAX - Multi-Agent AI Assistant
-**Description:** Engineered DRAX, an intelligent personal AI assistant, utilizes a multi-agent architecture where a central Manager agent (DRAX) delegates tasks (received via text or voice) to specialized Member agents for efficient execution.
+**Key Features:**
+- Stable Diffusion Integration
+- Custom Model Fine-tuning
+- Real-time Image Generation
+- High-quality Output Optimization
 
-**Key Features:** 
-- Implemented 13 specialized agents for tasks including RAG-based Document Analysis (PDFs), Web Search, Stock Market queries, Mail Management, Weather reporting, Web Scraping, Calendar management, and more.
-- Integrated multi-modal interaction: Voice input via Groq API (Whisper) transcription and spoken responses using ElevenLabs Text-to-Speech (TTS).
-- Leveraged LanceDB for efficient vector storage and retrieval in the RAG agent, using Google Gemini embeddings.
+**Tech Stack:** `Python` `Streamlit` `Stable Diffusion` `PIL` `Monster API`
 
-**Tech Stack:** 'agno' framework, Google Gemini (LLM & Embeddings), LanceDB, Groq API, ElevenLabs API, SQLite, Python, APIs (YFinance, OpenWeatherMap, Google Workspace, Firecrawl, Twilio).
+</td>
+<td width="33%" valign="top">
+
+### 🔍 RAG Evaluator
+[![Repo](https://img.shields.io/badge/GitHub-Repository-00FFFF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VijayKanagaraj7/RAG-Evaluator)
+
+**Comprehensive evaluation framework for Retrieval-Augmented Generation systems, ensuring optimal performance and accuracy in AI responses.**
+
+**Key Features:**
+- Multi-metric Evaluation
+- Performance Benchmarking
+- Answer Relevancy Analysis
+- Faithfulness Scoring
+
+**Tech Stack:** `Python` `LangChain` `FAISS` `Streamlit` `Evaluation Metrics`
+
+</td>
+<td width="33%" valign="top">
+
+### 👋 Sign Language Detection
+[![Repo](https://img.shields.io/badge/GitHub-Repository-00FFFF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VijayKanagaraj7/Sign-Language-Detection)
+
+**Real-time computer vision system that recognizes and translates sign language gestures, bridging communication barriers through AI.**
+
+**Key Features:**
+- Real-time Gesture Recognition
+- Computer Vision Processing
+- High Accuracy Detection
+- Communication Accessibility
+
+**Tech Stack:** `Python` `OpenCV` `TensorFlow` `Computer Vision` `ML Models`
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -225,19 +305,19 @@ My work revolves around orchestrating neural architectures, fine-tuning generati
 <div align="center">
 
 ```ascii
-         ██╗   ██╗██╗     █████╗  █████╗ ██╗   ██╗
-         ██║   ██║██║    ██╔══██╗██╔══██╗╚██╗ ██╔╝
-         ██║   ██║██║    ███████║███████║ ╚████╔╝ 
-         ██║   ██║██║    ██╔══██║██╔══██║  ╚██╔╝  
-         ╚██████╔╝██║    ██║  ██║██║  ██║   ██║   
-          ╚═════╝ ╚═╝    ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   
-                                                  
-    ┌─ AI & MACHINE LEARNING ─────────────── 98% ███████████████████▌
-    ├─ DATA SCIENCE & ANALYTICS ──────────── 95% ██████████████████▉ 
-    ├─ GENERATIVE AI & LLMs ──────────────── 92% ██████████████████▍ 
-    ├─ PYTHON DEVELOPMENT ────────────────── 90% █████████████████▉  
-    ├─ CLOUD INFRASTRUCTURE ──────────────── 85% █████████████████   
-    └─ NEURAL ARCHITECTURE DESIGN ────────── 88% █████████████████▌  
+██╗   ██╗██╗     ██╗ █████╗ ██╗   ██╗
+██║   ██║██║     ██║██╔══██╗╚██╗ ██╔╝
+██║   ██║██║     ██║███████║ ╚████╔╝ 
+╚██╗ ██╔╝██║██   ██║██╔══██║  ╚██╔╝  
+ ╚████╔╝ ██║╚█████╔╝██║  ██║   ██║   
+  ╚═══╝  ╚═╝ ╚════╝ ╚═╝  ╚═╝   ╚═╝   
+
+┌─ AI & MACHINE LEARNING ─────────────── 98% ████████████████████
+├─ DATA SCIENCE & ANALYTICS ──────────── 95% ███████████████████ 
+├─ GENERATIVE AI & LLMs ──────────────── 92% ██████████████████▌ 
+├─ PYTHON DEVELOPMENT ────────────────── 90% ██████████████████  
+├─ CLOUD INFRASTRUCTURE ──────────────── 85% █████████████████   
+└─ NEURAL ARCHITECTURE DESIGN ────────── 88% █████████████████▌  
 ```
 
 </div>
@@ -275,12 +355,16 @@ My work revolves around orchestrating neural architectures, fine-tuning generati
 
 ---
 
-<div align="center">
-  
-  <!-- GitHub Snake Game Animation -->
-  <img src="https://raw.githubusercontent.com/VijayKanagaraj7/VijayKanagaraj7/output/github-contribution-grid-snake.svg" alt="Snake Game"/>
-  
-</div>
+<!-- Hidden Easter Egg -->
+<!-- 
+╔══════════════════════════════════════════════════════════════════════════════╗
+║ If you're reading this, you've found the hidden easter egg! 🥚               ║
+║ Connect with me on LinkedIn for a special AI discussion! 🤖                  ║
+║ Hint: The future of AI lies in the convergence of consciousness and code.    ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+-->
+
+
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&animation=twinkling"/>
