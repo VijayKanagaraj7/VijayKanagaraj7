@@ -2,8 +2,8 @@
 
 <div align="center">
 
-<!-- Futuristic Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffff,100:8b5cf6&height=200&section=header&text=AI%20NEURAL%20ARCHITECT&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlign=50&fontAlignY=35" />
+<!-- Cyberpunk Programming Banner -->
+<img width="100%" src="https://i.imgur.com/dBaSKWF.gif" alt="Cyberpunk Banner" />
 
 <!-- Animated Typing Header -->
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=40&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=VIJAY+KANAGARAJ;AI+ML+ENGINEER;DATA+SCIENTIST;NO+CODE+DEVELOPER;NEURAL+ARCHITECT" alt="Typing SVG" />
@@ -366,6 +366,3 @@ GenAI      ████████████████████░   95%
 
 
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&animation=twinkling"/>
-</div>
