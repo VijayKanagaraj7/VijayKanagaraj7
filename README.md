@@ -3,7 +3,7 @@
 <div align="center">
 
 <!-- Cyberpunk Programming Banner -->
-<img width="100%" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fbackiee.com%2Fwallpaper%2Ftechsavvy-anime-programmers-haven%2F286745&psig=AOvVaw3tDXNokUcMI7AjPXvyr8d-&ust=1753088928097000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCMiV_amLy44DFQAAAAAdAAAAABAE" alt="Cyberpunk Banner" />
+<img width="100%" src="https://backiee.com/static/wallpapers/1000x563/386745.jpg" alt="Cyberpunk Banner" />
 
 <!-- Animated Typing Header -->
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=40&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=VIJAY+KANAGARAJ;AI+ML+ENGINEER;DATA+SCIENTIST;NO+CODE+DEVELOPER;NEURAL+ARCHITECT" alt="Typing SVG" />
