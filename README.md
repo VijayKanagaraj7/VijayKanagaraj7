@@ -3,7 +3,7 @@
 <div align="center">
 
 <!-- Futuristic Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffff,100:8b5cf6&height=200&section=header&text=AI%20NEURAL%20ARCHITECT&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlign=70&fontAlignY=40" />
+<img src="<img width="1000" height="563" alt="image" src="https://github.com/user-attachments/assets/17541638-ac8f-4ad8-b104-9a16d92b4776" />" />
 
 <!-- Animated Typing Header -->
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=35&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=VIJAY+KANAGARAJ;AI+ML+ENGINEER;DATA+SCIENTIST;NO+CODE+DEVELOPER;NEURAL+ARCHITECT" alt="Typing SVG" />
@@ -132,18 +132,6 @@ My work revolves around orchestrating neural architectures, fine-tuning generati
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/Sketch-F7B500?style=for-the-badge&logo=sketch&logoColor=black"/>
 <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white"/>
-
-### Skill Visualization
-```
-Python     ████████████████████░   95%
-SQL        ████████████████░░░░░   80%
-Java       ██████████████░░░░░░░   70%
-AI/ML      ████████████████████░   95%
-No Code    ████████████████░░░░░   80%
-UI/UX      ██████████████░░░░░░░   70%
-Data Sci   ████████████████████░   95%
-GenAI      ████████████████████░   95%
-```
 
 ### 📈 Data Science Arsenal
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
@@ -286,27 +274,6 @@ GenAI      ████████████████████░   95%
 </div>
 
 ---
-
-<!-- Matrix Digital Rain Effect (CSS Animation in GitHub doesn't work, but this gives the aesthetic) -->
-```
-01001000 01100101 01101100 01101100 01101111 00100000 01010111 01101111 01110010 01101100 01100100 00100001
-01000001 01001001 00100000 01001101 01001100 00100000 01000001 01110010 01100011 01101000 01101001 01110100 01100101 01100011 01110100
-01000100 01100001 01110100 01100001 00100000 01010011 01100011 01101001 01100101 01101110 01110100 01101001 01110011 01110100
-01001110 01100101 01110101 01110010 01100001 01101100 00100000 01001110 01100101 01110100 01110111 01101111 01110010 01101011 01110011
-```
-
-<!-- Hidden Easter Egg -->
-<!-- 
-╔══════════════════════════════════════════════════════════════════════════════╗
-║ If you're reading this, you've found the hidden easter egg! 🥚               ║
-║ Connect with me on LinkedIn for a special AI discussion! 🤖                  ║
-║ Hint: The future of AI lies in the convergence of consciousness and code.    ║
-╚══════════════════════════════════════════════════════════════════════════════╝
--->
-
----
-
-## Snake Game
 
 <div align="center">
   
