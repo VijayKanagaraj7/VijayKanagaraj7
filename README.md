@@ -156,7 +156,7 @@ My work revolves around orchestrating neural architectures, fine-tuning generati
 <img src="https://img.shields.io/badge/Replit-667881?style=for-the-badge&logo=replit&logoColor=white"/>
 <img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white"/>
 <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tray-FF6B6B?style=for-the-badge&logo=tray&logoColor=white"/>
+<img src="https://img.shields.io/badge/Trae-FF6B6B?style=for-the-badge&logo=tray&logoColor=white"/>
 <img src="https://img.shields.io/badge/Bolt-4285F4?style=for-the-badge&logo=bolt&logoColor=white"/>
 <img src="https://img.shields.io/badge/Loveable-E91E63?style=for-the-badge&logo=love&logoColor=white"/>
 
